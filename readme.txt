@@ -40,7 +40,7 @@ Note: This plugin uses CSS 3d transforms to show/hide the images and will theref
 
 == Screenshots ==
 
-1. A flipped image.
+1. A Secondary Image Shows on mouse hover.
 
 == Changelog ==
 
